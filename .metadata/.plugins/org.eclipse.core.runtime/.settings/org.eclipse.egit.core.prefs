@@ -1,4 +1,5 @@
-GitRepositoriesView.GitDirectories=D\:\\javasouce\\Calcurator\\.git;D\:\\javasouce\\gui\\.git;D\:\\javasouce\\project\\.git;
-GitRepositoriesView.GitDirectories.relative=Calcurator\\.git;gui\\.git;project\\.git;
+GitRepositoriesView.GitDirectories=D\:\\Source\\eclipse\\java_source\\Calcurator\\.git;D\:\\Source\\eclipse\\java_source\\gui\\.git;D\:\\Source\\eclipse\\java_source\\.git;D\:\\Source\\eclipse\\java_source\\project\\.git;
+GitRepositoriesView.GitDirectories.relative=Calcurator\\.git;gui\\.git;.git;project\\.git;
 RepositoryGroups.uuids=
+core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
