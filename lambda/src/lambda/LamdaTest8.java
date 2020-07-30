@@ -44,13 +44,11 @@ public class LamdaTest8 {
 		
 		// 두 개의 String 타입을 받아서 연결한 후 결과 리턴
 		BiFunction<String, String, String> f1 = (s1,s2) -> s1.concat(s2);
-		System.out.println("문자열 연결 수행 : "+f1.apply("java8", "람다"));
+		System.out.println("문자열 연결 수행 : "+f1.apply("java8", " 람다"));
 		
 		// 두 개의 Integer 타입을 받아서 큰 수를 출력
 		BiConsumer<Integer, Integer> c1 = (x,y) -> System.out.println(x > y ? x : y);
 		c1.accept(25, 30);
-		
-		
 		
 	}
 }

@@ -18,7 +18,7 @@ public class LamdaTest2 {
 		// 익명구현 객체 실행 방식 동일
 		lambda2.method();
 		
-		lambda2 = () -> {
+		lambda2 = () -> {	// () 올 수도 있고 안올 수도 있음 / 인자가 없는 경우 써줌
 			int i = 10;
 			System.out.println(i*i);
 		};
